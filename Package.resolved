@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Atlas",
+        "repositoryURL": "/Users/sam2/iOS/ios-exercise/Atlas",
+        "state": {
+          "branch": null,
+          "revision": "d44fa66230d457fe6e532cffb36e3b0f979d9178",
+          "version": "1.4.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
